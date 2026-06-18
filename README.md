@@ -19,7 +19,7 @@ Building AI-assisted detection pipelines, SOC automation, and home lab infrastru
 | Project | What it does | Status |
 |---|---|---|
 | [AI SOC Agent](#) | LangGraph + MCP + pywinrm autonomous triage agent | 🔨 In progress |
-| [n8n Threat Intel Agent](#) | CVE + RSS aggregation → Gemini AI → Gmail digest | ✅ Complete |
+| [n8n Threat Intel Agent]((https://github.com/Dustpipe99/n8n-threat-intel-agent)) | CVE + RSS aggregation → Gemini AI → Gmail digest | ✅ Complete |
 | [Home SOC Lab](#) | Ubuntu jump box + Windows AD + ELK SIEM | ✅ Complete |
 | [FlareVM Malware Lab](#) | Static + dynamic malware analysis environment | ✅ Complete |
 | [CVE Detection Pipeline](#) | Auto-generate Sigma/KQL rules from CVE intel | 📐 Design phase |
