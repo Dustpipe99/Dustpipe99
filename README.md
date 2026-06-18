@@ -39,7 +39,7 @@ Building AI-assisted detection pipelines, SOC automation, and home lab infrastru
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-j-b07672b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-j-b07672b9)
 
 ---
 
