@@ -7,7 +7,7 @@ Building AI-assisted detection pipelines, SOC automation, and home lab infrastru
 
 ## 🔍 What I work on
 
-- **Threat detection** — identity threats, AiTM session hijacking, Okta/Entra log analysis
+- **Threat detection** — identity threats, AiTM session hijacking, Phishing, Malware analysis, Cloud log analysis 
 - **SOC automation** — n8n workflows, AI triage agents, enrichment pipelines
 - **Home lab** — ELK stack, Windows AD environment, attack simulation + detection validation
 - **AI/ML for security** — LangGraph agent orchestration, MCP tooling, LLM-assisted detection
